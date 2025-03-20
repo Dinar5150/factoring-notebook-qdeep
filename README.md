@@ -7,7 +7,7 @@
 
 # Important note
 
-This repository was forked from the code examples from the [D-Wave Leap code examples](https://cloud.dwavesys.com/leap/examples). Authors of this repository do not own any of the code, all credit goes to D-Wave systems and their contributors.
+This repository was forked from the code examples from the D-Wave's [factoring-notebook](https://github.com/dwave-examples/factoring-notebook) repository. Authors of this repository do not own any of the code, all credit goes to D-Wave systems and their contributors.
 
 # Factoring
 
