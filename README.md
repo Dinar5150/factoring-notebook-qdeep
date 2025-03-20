@@ -7,7 +7,7 @@
 
 # Important note
 
-This repository was forked from the D-Wave's [factoring-notebook](https://github.com/dwave-examples/factoring-notebook) repository. Authors of this repository do not own any of the code, all credit goes to D-Wave systems and their contributors.
+This repository is a fork of [D-Wave's original factoring-notebook](https://github.com/dwave-examples/factoring-notebook). The contributors to this fork do not claim ownership or authorship of the original codebase. All credit for the original work belongs to D-Wave Systems and its respective contributors.
 
 # Factoring
 
