@@ -5,6 +5,10 @@
   https://circleci.com/gh/dwave-examples/factoring-notebook.svg?style=shield)](
   https://circleci.com/gh/dwave-examples/factoring-notebook)
 
+# Important note
+
+This repository was forked from the code examples from the [D-Wave Leap code examples](https://cloud.dwavesys.com/leap/examples). Authors of this repository do not own any of the code, all credit goes to D-Wave systems and their contributors.
+
 # Factoring
 
 This notebook explains the quantum processing unit (QPU) programming model used
